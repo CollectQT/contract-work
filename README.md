@@ -14,5 +14,6 @@ We do a short interview with people to confirm their skills and culture, but oth
 
 ## TODO
 
-- Write up a contract
+- write up a contract
+- write about our philosophy and culture regarding contract work
 - fill out more info in this readme
