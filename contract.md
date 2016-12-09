@@ -1,4 +1,4 @@
-# Contract for work on with CollectQT
+# Contract for work CollectQT
 
 ## Summary
 
