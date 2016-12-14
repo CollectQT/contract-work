@@ -1,7 +1,5 @@
 # Contract for work CollectQT
 
-## Summary
-
 The intent of this contract is to describe the parameters and conditions of work to be done. It describes your (the Contract) obligations to us, and our (CollectQT's) obligations to you. Please do read it all!
 
 ## Completion of Work
