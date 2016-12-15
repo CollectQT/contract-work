@@ -7,3 +7,8 @@ You can start working on an issue after a member of CollectQT approves work on i
 ## Getting To Work With Us
 
 We do a short interview with people to confirm their skills and culture, but otherwise we are fairly flexible. Ping [@lynncyrin](https://twitter.com/lynncyrin) for details.
+
+## Process Notes
+
+- turn markdown files to pdfs with [markdown2pdf](https://github.com/lynnco/markdown2pdf)
+- sign pdfs with [hellosign](https://www.hellosign.com/)
