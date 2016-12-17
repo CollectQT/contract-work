@@ -41,21 +41,28 @@ Further, using the work for your own promotion / portfolio / resume is explicitl
 
 ---
 
-Signature and date for: CollectQT representative, Lynn "Cyrin" Conway
+CollectQT representative
+
+/ NAME:
+
+/ DATE:
 
 /
 
-/
+/ SIGNATURE:
 
 /
 
 ---
 
-Signature and date for: Contractor, <FILL: NAME>
+Contractor
 
+/ NAME:
+
+/ DATE:
 
 /
 
-/
+/ SIGNATURE:
 
 /
